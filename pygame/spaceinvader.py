@@ -1,4 +1,3 @@
-# getting started with pygame 
 import pygame
 
 #initialize the pygame
