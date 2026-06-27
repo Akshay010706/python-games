@@ -6,7 +6,7 @@ pygame.init()
 #create the screeen
 screen = pygame.display.set_mode((900,600))
 
-
+# Game loop
 running = True
 while running:
     for event in pygame.event.get():
